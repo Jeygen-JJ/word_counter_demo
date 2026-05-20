@@ -10,3 +10,4 @@ with open('result.txt', 'w', encoding='utf-8') as f:
         f.write(f'{word}: {count}\n')
 
 print("统计完成，结果写入 result.txt")
+print("这是新的测试行")
