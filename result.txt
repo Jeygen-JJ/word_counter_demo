@@ -1,0 +1,10 @@
+hello: 3
+world: 2
+chatgpt: 1
+this: 1
+is: 1
+a: 1
+test: 1
+file: 1
+boy: 1
+big: 1
