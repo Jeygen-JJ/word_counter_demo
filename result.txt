@@ -8,3 +8,6 @@ test: 1
 file: 1
 boy: 1
 big: 1
+small: 1
+apple: 1
+flower: 1
