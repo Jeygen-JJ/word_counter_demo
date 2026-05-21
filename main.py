@@ -11,6 +11,10 @@ with open('result.txt', 'w', encoding='utf-8') as f:
 
 print("统计完成，结果写入 result.txt")
 print("这是新的测试行")
+<<<<<<< HEAD
 # 输出总单词数
 total_words = sum(counter.values())
 print(f"总单词数: {total_words}")
+=======
+print("远程修改测试冲突")
+>>>>>>> main
